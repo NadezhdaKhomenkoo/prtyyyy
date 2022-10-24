@@ -10,19 +10,27 @@ body {
 }
 .hero {
   color: #ffff33;
+  font-size: 50px;
 }
 .tag {
   margin-top: 15px;
+  font-size: 15px;
 }
 .tag-info {
   color: #0000cc;
+  font-size: 20px;
 }
 .add-text {
   margin-top: 25px;
+  color: #0000cc;
+  font-size: 20px;
 }
 .add {
+  color: #ffff33;
 }
 .donat {
+  margin-top: 30px;
+  color: #e62e00;
 }
 .donat-button {
 }
