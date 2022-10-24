@@ -32,7 +32,7 @@ a {
   font-size: 25px;
 }
 .add-text {
-  margin-top: 25px;
+  margin-top: 30px;
   color: #e62e00;
   font-size: 20px;
 }
@@ -42,15 +42,9 @@ a {
 }
 .donat {
   margin-top: 50px;
-  color: #1a1aff;
+  color: #ffff33;
 }
 
 .donat-button {
-  font-size: 25px;
-  color: #ffff33;
-  line-height: 1.87;
-  letter-spacing: 0.06em;
-  cursor: pointer;
-  color: #ffff33;
-  border: none;
+  border-radius: 20px;
 }
