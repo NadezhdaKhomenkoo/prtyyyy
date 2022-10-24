@@ -21,7 +21,7 @@ a {
 }
 .tag-info {
   color: #e62e00;
-  font-size: 20px;
+  font-size: 25px;
 }
 .add-text {
   margin-top: 25px;
@@ -30,6 +30,7 @@ a {
 }
 .add {
   color: #ffff33;
+  font-size: 25px;
 }
 .donat {
   margin-top: 50px;
@@ -37,4 +38,12 @@ a {
 }
 
 .donat-button {
+  font-size: 25px;
+  color: #ffff33;
+  line-height: 1.87;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  color: #ffff33;
+  border: none;
+}
 }
