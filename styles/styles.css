@@ -22,10 +22,12 @@ a {
 .tag2 {
   margin-top: 15px;
   font-size: 15px;
+  text-decoration: underline;
 }
 .tag3 {
   margin-top: 15px;
   font-size: 15px;
+  text-decoration: underline;
 }
 .tag-info {
   color: #e60000;
