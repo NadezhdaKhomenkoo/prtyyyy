@@ -3,3 +3,26 @@ body {
   color: #ffff33;
   text-align: center;
 }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.hero {
+  color: #ffff33;
+}
+.tag {
+  margin-top: 15px;
+}
+.tag-info {
+  color: #0000cc;
+}
+.add-text {
+  margin-top: 25px;
+}
+.add {
+}
+.donat {
+}
+.donat-button {
+}
