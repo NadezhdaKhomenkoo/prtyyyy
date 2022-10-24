@@ -18,11 +18,13 @@ a {
 .tag {
   margin-top: 120px;
   font-size: 15px;
+  color: #e60000;
 }
 .tag2 {
   margin-top: 15px;
   font-size: 15px;
   text-decoration: underline;
+  color: #e60000;
 }
 .tag3 {
   margin-top: 15px;
@@ -30,12 +32,12 @@ a {
   text-decoration: underline;
 }
 .tag-info {
-  color: #e60000;
   font-size: 25px;
+  color: #ffff33;
 }
 .add-text {
   margin-top: 30px;
-  color: #e60000;
+  color: #ffff33;
   font-size: 20px;
 }
 .add {
