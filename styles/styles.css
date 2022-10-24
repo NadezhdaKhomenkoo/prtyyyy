@@ -13,9 +13,17 @@ a {
 }
 .hero {
   color: #ffff33;
-  font-size: 35px;
+  font-size: 30px;
 }
 .tag {
+  margin-top: 120px;
+  font-size: 15px;
+}
+.tag2 {
+  margin-top: 15px;
+  font-size: 15px;
+}
+.tag3 {
   margin-top: 15px;
   font-size: 15px;
 }
@@ -45,5 +53,4 @@ a {
   cursor: pointer;
   color: #ffff33;
   border: none;
-}
 }
